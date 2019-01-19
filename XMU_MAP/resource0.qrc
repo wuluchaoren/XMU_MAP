@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/pic">
+        <file>pic/icon.png</file>
+        <file>pic/map1.jpg</file>
+        <file>pic/12333333.jpg</file>
+    </qresource>
+</RCC>

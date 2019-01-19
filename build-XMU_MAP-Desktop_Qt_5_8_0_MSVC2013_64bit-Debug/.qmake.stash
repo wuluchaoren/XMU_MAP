@@ -1,0 +1,10 @@
+QMAKE_DEFAULT_INCDIRS = \
+    D:\\vs\\VC\\INCLUDE \
+    D:\\vs\\VC\\ATLMFC\\INCLUDE \
+    "C:\\Program Files (x86)\\Windows Kits\\8.1\\include\\shared" \
+    "C:\\Program Files (x86)\\Windows Kits\\8.1\\include\\um" \
+    "C:\\Program Files (x86)\\Windows Kits\\8.1\\include\\winrt"
+QMAKE_DEFAULT_LIBDIRS = \
+    D:\\vs\\VC\\LIB\\amd64 \
+    D:\\vs\\VC\\ATLMFC\\LIB\\amd64 \
+    "C:\\Program Files (x86)\\Windows Kits\\8.1\\lib\\winv6.3\\um\\x64"
